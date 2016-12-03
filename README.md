@@ -2,6 +2,11 @@
 # DEPRECATED
 # !!!!!!!!!!
 
+# =========================================================
+# Please use cheval! https://github.com/ryanpcmcquen/cheval
+# =========================================================
+
+
 # simpleJsCopy :clipboard:
 
 Just include the library (`v0.3.1`, ~1kB!):
