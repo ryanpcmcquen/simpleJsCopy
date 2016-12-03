@@ -2,9 +2,10 @@
 # DEPRECATED
 # !!!!!!!!!!
 
-# =========================================================
-# Please use cheval! https://github.com/ryanpcmcquen/cheval
-# =========================================================
+# ============================
+# Please use cheval!
+# https://github.com/ryanpcmcquen/cheval
+# ============================
 
 
 # simpleJsCopy :clipboard:
