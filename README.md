@@ -1,3 +1,7 @@
+# !!!!!!!!!!
+# DEPRECATED
+# !!!!!!!!!!
+
 # simpleJsCopy :clipboard:
 
 Just include the library (`v0.3.1`, ~1kB!):
