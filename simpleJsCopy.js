@@ -1,5 +1,5 @@
 /*! simpleJsCopy.js v0.3.1 by ryanpcmcquen */
-// Ryan P. C. McQuen | Everett, WA | ryanpcmcquen@member.fsf.org
+// Ryan P. C. McQuen | Everett, WA
 
 /*global window*/
 /*jslint browser:true, white:true, single: true*/
